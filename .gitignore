@@ -1,2 +1,5 @@
 .*
+staging/
 !/.gitignore
+!/.github
+!build/.dockerignore
