@@ -25,7 +25,7 @@ on:
 
 env:
   # CUSTOMIZE THIS: Set your GHCR package name
-  GHCR_IMAGE_NAME: ghcr.io/driftywinds/selfhst-icons
+  GHCR_IMAGE_NAME: driftywinds/selfhst-icons
   
   # CUSTOMIZE THIS: Set your Dockerfile path if not in root
   DOCKERFILE_PATH: ./build/Dockerfile
