@@ -31,7 +31,7 @@ env:
   DOCKERFILE_PATH: ./build/Dockerfile
   
   # CUSTOMIZE THIS: Set build context path
-  BUILD_CONTEXT: .
+  BUILD_CONTEXT: ./build/
 
 jobs:
   build-and-push:
