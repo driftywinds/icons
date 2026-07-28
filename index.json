@@ -34186,5 +34186,17 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-07-27 12:51:42+00:00"
+    },
+    {
+        "Name": "BookBridge",
+        "Reference": "bookbridge",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-28 14:09:30+00:00"
     }
 ]
