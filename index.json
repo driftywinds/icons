@@ -34198,5 +34198,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-28 14:09:30+00:00"
+    },
+    {
+        "Name": "Giraffile",
+        "Reference": "giraffile",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-30 20:57:37+00:00"
+    },
+    {
+        "Name": "Scrob",
+        "Reference": "scrob",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-30 21:05:42+00:00"
+    },
+    {
+        "Name": "YT Zero",
+        "Reference": "yt-zero",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-30 21:08:34+00:00"
     }
 ]
