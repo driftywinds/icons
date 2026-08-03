@@ -34234,5 +34234,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-30 21:08:34+00:00"
+    },
+    {
+        "Name": "Smore (Newsletter)",
+        "Reference": "smore-newsletter",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "",
+        "CreatedAt": "2026-08-03 10:03:30+00:00"
     }
 ]
