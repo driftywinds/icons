@@ -32846,7 +32846,7 @@
     {
         "Name": "Homey",
         "Reference": "homey",
-        "SVG": "Yes",
+        "SVG": "No",
         "PNG": "Yes",
         "WebP": "Yes",
         "Light": "No",
@@ -34118,7 +34118,7 @@
     {
         "Name": "Iru",
         "Reference": "iru",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
         "Light": "No",
@@ -34178,11 +34178,11 @@
     {
         "Name": "North Pole Security",
         "Reference": "north-pole-security",
-        "SVG": "No",
+        "SVG": "Yes",
         "PNG": "Yes",
         "WebP": "Yes",
-        "Light": "No",
-        "Dark": "No",
+        "Light": "Yes",
+        "Dark": "Yes",
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-07-27 12:51:42+00:00"
@@ -34246,5 +34246,113 @@
         "Category": "Other",
         "Tags": "",
         "CreatedAt": "2026-08-03 10:03:30+00:00"
+    },
+    {
+        "Name": "Cairn",
+        "Reference": "cairn",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 09:28:20+00:00"
+    },
+    {
+        "Name": "rurdesk",
+        "Reference": "rurdesk",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-08-05 09:31:05+00:00"
+    },
+    {
+        "Name": "DBackup",
+        "Reference": "dbackup",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 09:46:11+00:00"
+    },
+    {
+        "Name": "ROMarr",
+        "Reference": "romarr",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "Video Games",
+        "CreatedAt": "2026-08-05 09:48:05+00:00"
+    },
+    {
+        "Name": "vLLM",
+        "Reference": "vllm",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Artificial Intelligence",
+        "CreatedAt": "2026-08-05 09:52:32+00:00"
+    },
+    {
+        "Name": "Lore (Epic Games)",
+        "Reference": "lore-epic-games",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 09:54:43+00:00"
+    },
+    {
+        "Name": "Network Optimizer",
+        "Reference": "network-optimizer",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 09:57:18+00:00"
+    },
+    {
+        "Name": "Securo",
+        "Reference": "securo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 09:59:07+00:00"
+    },
+    {
+        "Name": "Hammer (Editor)",
+        "Reference": "hammer-editor",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-05 10:02:38+00:00"
     }
 ]
