@@ -34354,5 +34354,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-08-05 10:02:38+00:00"
+    },
+    {
+        "Name": "drawDB",
+        "Reference": "drawdb",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-06 10:24:56+00:00"
+    },
+    {
+        "Name": "LAN Orangutan",
+        "Reference": "lan-orangutan",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-06 10:32:46+00:00"
+    },
+    {
+        "Name": "Tagr",
+        "Reference": "tagr",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-08-06 10:43:53+00:00"
     }
 ]
