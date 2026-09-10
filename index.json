@@ -34714,5 +34714,17 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-09-01 09:49:56+00:00"
+    },
+    {
+        "Name": "Kohl's",
+        "Reference": "kohls",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Other",
+        "Tags": "Shopping",
+        "CreatedAt": "2026-09-09 10:15:46+00:00"
     }
 ]
